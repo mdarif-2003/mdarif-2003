@@ -1,3 +1,15 @@
+# 👋 Hi, I'm Md. Arif
+
+### 💻 CSE Undergraduate | Aspiring Software Engineer
+
+Passionate about **Software Engineering, Backend Development, and AI/ML**.  
+Currently focused on **C++, DSA, Competitive Programming, and Problem Solving** while exploring **Backend Systems, Software Architecture, and AI-powered applications**.
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdarif_2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdarif-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hkarif2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HKArif2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hkarif2003@gmail.com) 
